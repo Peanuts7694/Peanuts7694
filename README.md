@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peanuts7694
+- 👋 Hi, I’m @Peanuts
 - 👀 I’m interested in OSINT
 - 🌱 I’m currently learning Githubbing
 - 💞️ I’m looking to collaborate on nothing
